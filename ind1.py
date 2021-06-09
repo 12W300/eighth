@@ -113,7 +113,7 @@ if __name__ == '__main__':
         elif command == 'plane':
             comm_plane()
 
-        elif command == 'help' or command == '':
+        elif command == 'help':
             comm_help()
             
         else:
